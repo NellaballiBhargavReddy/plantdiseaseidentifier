@@ -34,9 +34,12 @@ nav a{
     text-decoration: none;
     justify-content:space-between;
 }
+#symptoms{
+    height:30px;
+}
 textarea {
     width: 80%;
-    height: 20px;
+    height: 30px;
     padding: 1rem;
     margin-top: 1rem;
     border: 1px solid #ccc;
